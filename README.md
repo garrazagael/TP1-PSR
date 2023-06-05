@@ -1,2 +1,2 @@
 # TP1-PSR
-Primer Trabajo Práctico de Programación Sobre Redes
+Histórico de Precios (Producto, Registro de Precio x Fecha) (MongoDB) 
